@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ikrormi Rungsung, PhD Bioinformatics - Molecular modelling and classical dynamics simulation of protein complexes and postdoctoral expirience in Human medical genetics and semantic AI enabled cloud paltform for gene variant analysis for Human genetic disorders.
+- 👋 Hi, I’m Ikrormi Rungsung, PhD Bioinformatics - Molecular modelling and Classical dynamics simulation of protein complexes and postdoctoral expirience in Human medical genetics and semantic AI enabled cloud paltform for gene variant analysis in rare Human Mendelian genetic disorders.
 - 👀 I’m interested in computational genomics and biomarkers discovery
 - 🌱 I’m currently learning semantic AI, statistical modelling and machine learning
 - 💞️ I’m looking to collaborate on systems biology
