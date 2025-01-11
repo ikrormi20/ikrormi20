@@ -1,2 +1,2 @@
 Ikrormi Rungsung
-Ph.D. Bioinformatics 
+(Ph.D. Bioinformatics) 
